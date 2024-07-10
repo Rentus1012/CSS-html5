@@ -33,8 +33,8 @@ class App {
 
         this.polygon = new Polygon(
             this.stageWidth / 2, // 다각형의 중심 x 좌표
-            this.stageHeight + (this.stageHeight /3), // 다각형의 중심 y 좌표 (위치를 선정한다.)
-            this.stageHeight / 1.5, // 다각형의 반지름
+            this.stageHeight + (this.stageHeight /4.5), // 다각형의 중심 y 좌표 (위치를 선정한다.)
+            this.stageHeight / 1.8, // 다각형의 반지름
             15 // 다각형의 변 수
             
         );
