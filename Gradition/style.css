@@ -40,7 +40,7 @@ body {
 }
 
 canvas {
-    width: 1920px; /* 원하는 canvas의 너비 */
-    height: 1080px; /* 원하는 canvas의 높이 */
+    width: 2240px; /* 원하는 canvas의 너비 */
+    height: 1400px; /* 원하는 canvas의 높이 */
     border: 1px solid #ccc; /* 선택적으로 canvas에 테두리를 추가할 수 있습니다 */
 }
